@@ -1,0 +1,210 @@
+body{
+    font-family:"Open SANS",sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+.header{
+    background-color:  #fae3e8;
+    background-position: bottom right ,top left;
+}
+.banner{
+    padding: 30px,30px,0px,150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.type{
+    color: #7c7979;
+}
+.banner-content{
+    max-width: 500px;
+    margin-left: 100px;
+}
+.banner .profile-picture{
+    width: 500px;
+}
+.banner-title{
+    font-size: 50px;
+    font-weight: 700px;
+}
+.btn-primary{
+    background-color:#E55473 ;
+  border: 0;
+  border-radius: 5px;
+  color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+}
+.btn-primary:hover{
+    background-color: aqua;
+    transition: 2s;
+}
+main{
+    max-width: 1140;
+    margin: 0 auto;
+}
+.Flowers-section{
+  
+    max-width: 2000px;
+    margin: auto;
+    align-items: center;
+    justify-content: space-around;
+    gap: 20px;
+}
+.Flowers-container{
+    display: flex;
+    gap: 24px;
+}
+.tree{
+    padding: 5px;
+    text-align: center;
+    text-decoration: underline;
+}
+.Flowers-title{
+    text-align: center;
+}
+.section-title{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 700;
+}
+.section-desription{
+    color: #7c7979;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 15px;
+   font-style: normal;
+   
+}
+.png6{
+background-color:#F8CCFF;
+border: 0px;
+border-radius: 50% 50% 0 0;
+padding: 50px 50px 0px 50px;
+height: 400px;
+width: 300px;
+}
+.png5{
+    background-color: #0597A0;
+    bottom: 0px;
+    border-radius:50% 50% 0 0;
+    padding:50px 50px 0px 50px ;
+    height: 400px;
+    width: 300px;
+}
+.png7{
+    background-color:#477D11;
+    border: 0px;
+    border-radius: 50% 50% 0 0;
+    padding: 50px 50px 0px 50px;
+    height: 400px;
+    width: 300px;
+}
+.be{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 100px 100px 100px 100px;
+    border: 10px;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+    margin: 100px 100px 100px 100px;
+    background-color:#DDDADA;
+}
+.black{
+    color:#474545 ;
+}
+.deal{
+    text-align: center;
+    background-color: #F9C3CF;
+    display: flex;
+   justify-content:space-around;
+   align-items: center;
+   padding: 60px 30px 30px 30px;
+}
+.blue{
+    font-size: 14px;
+    color: #757575;
+}
+.social-link{
+    text-align: center;
+}
+.red{
+    color: #757575;
+    font-size: 13px;
+}
+.social-update{
+    display: flex;
+    margin: 30px 30px 30px 30px;
+    width: 50%;
+    height: 50%;
+    gap: 1px;
+    
+}
+.flower1{
+    height: 40%;
+     width: 40%;
+     margin: 20px 20px 20px 20px;
+}
+.flower2{
+    height: 40%;
+     width: 40%;
+     margin: 20px 20px 20px 20px;
+}
+.flower3{
+    height: 40%;
+    width: 40%;
+    margin: 20px 20px 20px 20px;
+}
+.flower4{
+    height: 40%;
+    width: 40%;
+    margin: 20px 20px 20px 20px;
+}
+.mail{
+    background-image: url(FlowerAsset/Rectangle\ 9.png);
+    align-items: center;
+    text-align: center;
+    margin: 60px 90px 60px 50px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+#email{
+    width: 500px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-size: 16px;
+    height: 53px;
+}
+.footer{
+    background-color: #111010;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0;
+}
+.shpo{
+    padding-top: 90px;
+    color: white;
+    padding-bottom: 20px;
+}
+.hettt{
+    color: #E55473;
+}
+.layout{
+    color: rgb(196, 189, 189);
+    padding-bottom: 20px;
+    font-size: 13px;
+}
+.copy-right{
+    color: #757575;
+    padding-bottom: 90px;
+    font-size: 10px;
+}
+
